@@ -5,7 +5,7 @@ CACHE MANIFEST
 CACHE:
 index.html
 css/index.css
-css/resized_image.png
+css/resized.png
 fonts/FONTS.LICENSE
 fonts/LiberationMono-Regular.ttf
 js/index.js
